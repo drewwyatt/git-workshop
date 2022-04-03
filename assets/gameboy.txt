@@ -1,3 +1,6 @@
+# GameBoy by Joan Stark
+# https://www.asciiart.eu/computers/game-consoles
+
     __________________________
    |OFFo oON                  |
    | .----------------------. |
@@ -22,5 +25,5 @@
    |         (___) (___)  ,., |
    |        select start ;:;: |
    |                    ,;:;' /
-   |                   ,:;:'.'
+jgs|                   ,:;:'.'
    '-----------------------`

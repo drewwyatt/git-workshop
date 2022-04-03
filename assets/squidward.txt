@@ -1,3 +1,6 @@
+# Squidward by lgbeard
+# https://www.asciiart.eu/cartoons/spongebob-squarepants
+
         .--'''''''''--.
      .'      .---.      '.
     /    .-----------.    \
@@ -31,7 +34,7 @@
              | | |
             /| | |\
           .'_| | |_`.
-          `. | | | .'
+LGB       `. | | | .'
        .    /  |  \    .
       /o`.-'  / \  `-.`o\
      /o  o\ .'   `. /o  o\
