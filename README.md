@@ -15,3 +15,8 @@ Try workflows in git.
 - [Stash](https://www.atlassian.com/git/tutorials/saving-changes/git-stash)
 - [Cherry-pick](https://www.atlassian.com/git/tutorials/cherry-pick)
 - [Reset](https://www.atlassian.com/git/tutorials/undoing-changes/git-reset)
+
+## How to interactive rebase
+
+- [Rider (how I did it in the presentation)](https://www.jetbrains.com/help/rider/Edit_project_history.html#interactive-rebase-onto-branch)
+- [Sourcetree](https://www.atlassian.com/blog/sourcetree/interactive-rebase-sourcetree)
