@@ -2,9 +2,15 @@
 
 Try workflows in git.
 
-## Scenarios
+## Scenario
 
-- Squash-merge a feature branch that has downstream branches
+Squash-merge a feature branch that has downstream branches
+
+## Why do we squash/rebase?
+
+Pull requests are (typically) authored, reviewed, and verified holistically. While individual commits on a feature branch can give the reviewer clues about why something is the way it is, or what bits of that feature relate-to/rely-on each other, once the PR is merged it is extremely rare to refer to those indivual commits again. Additionally, when merging those individual commits into the default branch, you can (and often do) introduce erroneous (or at the very least, unverified) rollback points.
+
+Squashing ensures that vode that was verified as a whole, is merged as a whole and _in theory_ ensures that every commit on the default branch is a safe branching/rollback point.
 
 ## Concepts
 
@@ -18,5 +24,5 @@ Try workflows in git.
 
 ## How to interactive rebase
 
-- [Rider (how I did it in the presentation)](https://www.jetbrains.com/help/rider/Edit_project_history.html#interactive-rebase-onto-branch)
+- [Rider (how I do it in the presentation)](https://www.jetbrains.com/help/rider/Edit_project_history.html#interactive-rebase-onto-branch)
 - [Sourcetree](https://www.atlassian.com/blog/sourcetree/interactive-rebase-sourcetree)
