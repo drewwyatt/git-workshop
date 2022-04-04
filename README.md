@@ -14,3 +14,4 @@ Try workflows in git.
 - Squash
 - [Stash](https://www.atlassian.com/git/tutorials/saving-changes/git-stash)
 - [Cherry-pick](https://www.atlassian.com/git/tutorials/cherry-pick)
+- [Reset](https://www.atlassian.com/git/tutorials/undoing-changes/git-reset)
