@@ -8,9 +8,9 @@ Squash-merge a feature branch that has downstream branches
 
 ## Why do we squash/rebase?
 
-Pull requests are (typically) authored, reviewed, and verified holistically. While individual commits on a feature branch can give the reviewer clues about why something is the way it is, or what bits of that feature relate-to/rely-on each other, once the PR is merged it is extremely rare to refer to those indivual commits again. Additionally, when merging those individual commits into the default branch, you can (and often do) introduce erroneous (or at the very least, unverified) rollback points.
+Pull requests are (typically) authored, reviewed, and verified holistically. While individual commits on a feature branch can give the reviewer clues about why something is the way it is, or what bits of that feature relate-to/rely-on each other, once the PR is merged it is extremely rare to refer to those individual commits again. Additionally, when merging those individual commits into the default branch, you can (and often do) introduce erroneous (or at the very least, unverified) rollback points.
 
-Squashing ensures that vode that was verified as a whole, is merged as a whole and _in theory_ ensures that every commit on the default branch is a safe branching/rollback point.
+Squashing ensures that code that was verified as a whole, is merged as a whole and _in theory_ ensures that every commit on the default branch is a safe branching/rollback point.
 
 ## Concepts
 
