@@ -22,7 +22,7 @@ Squashing ensures that vode that was verified as a whole, is merged as a whole a
 - [Cherry-pick](https://www.atlassian.com/git/tutorials/cherry-pick)
 - [Reset](https://www.atlassian.com/git/tutorials/undoing-changes/git-reset)
 
-## How to interactive rebase
+## How to do an interactive rebase
 
 - [Rider (how I do it in the presentation)](https://www.jetbrains.com/help/rider/Edit_project_history.html#interactive-rebase-onto-branch)
 - [Sourcetree](https://www.atlassian.com/blog/sourcetree/interactive-rebase-sourcetree)
